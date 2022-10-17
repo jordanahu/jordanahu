@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jordanahu
+- 👋 Hi, I’m Jordan(JAM)
 - 👀 I’m interested in algorithms, design patterns, java and javascript.
 - 🌱 I’m currently learning Data structures and Algorithms
 - 💞️ I’m looking to collaborate on full-stack javascript projects
